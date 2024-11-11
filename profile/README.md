@@ -4,5 +4,5 @@
   </a>
   <br>
   
-  #### 专注数据安全，加入我们：admin@wukongsec.com 丨 Focus on data security, join us: admin@itbob.cn
+  #### 专注数据安全，加入我们：admin@wukongsec.com 丨 Focus on data security, join us: admin@wukongsec.com
 </div>
